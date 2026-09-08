@@ -63,7 +63,7 @@
 
 应用内置丰富的自定义能力，开箱即可调整：习惯图标与颜色、日程颜色与重复规则（含指定星期）、课程表时间/课间/大课间/晚课、专注时长与闹钟、瘦身目标等。
 
-如有更深度的**定制修改需求**（功能增删、界面调整、模块扩展等），欢迎通过 [GitHub Issues](https://github.com/shutiao69/Pa_Mi/issues) 或邮件 `shutiao69@users.noreply.github.com` 联系作者。
+如有更深度的**定制修改需求**（功能增删、界面调整、模块扩展等），欢迎通过 [GitHub Issues](https://github.com/shutiao69/Pa_Mi/issues) 或邮件 `a_19743@163.com`(优先选邮箱） 联系作者。
 
 ---
 
