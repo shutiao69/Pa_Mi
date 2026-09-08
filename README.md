@@ -14,13 +14,13 @@
 
 ## 🖼️ 界面预览
 
-| 手帐页 · 周时间轴与课程表 | 总览页 · 全年仪表盘 |
+| 手帐页 · 月周联动 | 手帐页 · 周时间轴与课程表 |
 |:---:|:---:|
-| ![手帐页](screenshots/home.png) | ![总览页](screenshots/overview.png) |
+| ![手帐页](screenshots/journal.png) | ![课程表](screenshots/timetable.png) |
 
-| 总结页 · 专注统计与复盘 | 瘦身页 · 健康管理 |
+| 总览页 · 全年仪表盘 | 总结页 · 专注统计与复盘 |
 |:---:|:---:|
-| ![总结页](screenshots/summary.png) | ![瘦身页](screenshots/fitness.png) |
+| ![总览页](screenshots/overview.png) | ![总结页](screenshots/summary.png) |
 
 ---
 
