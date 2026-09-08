@@ -14,13 +14,13 @@
 
 ## 🖼️ 界面预览
 
-| 手帐页 · 月周联动 | 总览页 · 全年仪表盘 |
-|:---:|:---:|
-| ![手帐页](screenshots/home.png) | ![总览页](screenshots/overview.png) |
-
-| 总结页 · 专注统计与复盘 | 瘦身页 · 健康管理 |
-|:---:|:---:|
-| ![总结页](screenshots/summary.png) | ![瘦身页](screenshots/fitness.png) |
+<p align="center">
+  <img src="screenshots/home.png" width="49%" alt="手帐页 · 月周联动">
+  <img src="screenshots/overview.png" width="49%" alt="总览页 · 全年仪表盘">
+  <br>
+  <img src="screenshots/summary.png" width="49%" alt="总结页 · 专注统计与复盘">
+  <img src="screenshots/fitness.png" width="49%" alt="瘦身页 · 健康管理">
+</p>
 
 ---
 
