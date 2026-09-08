@@ -1,0 +1,23 @@
+# ===== 本仓库仅分发安装包，以下内容一律不上传 =====
+/index.html
+/app/
+/desktop-app/
+/dist/
+/desktop/
+/build-dist.js
+/build-desktop.js
+/preview-server.js
+/tools/
+/index - *.html
+/index 仅计划版.html
+/index - 完美1.html
+/index - 牛逼*.html
+/index - 综合*.html
+/index - 计划*.html
+/app - 副本/
+/dist - 副本/
+/tools - 副本/
+/软著申请材料/
+/下载记录.csv
+node_modules/
+安装包/*.apk
