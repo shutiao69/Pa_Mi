@@ -16,11 +16,11 @@
 
 | 手帐页 · 周时间轴与课程表 | 总览页 · 全年仪表盘 |
 |:---:|:---:|
-| ![手帐页](界面截图/手帐页.png) | ![总览页](界面截图/总览页.png) |
+| ![手帐页](screenshots/home.png) | ![总览页](screenshots/overview.png) |
 
 | 总结页 · 专注统计与复盘 | 瘦身页 · 健康管理 |
 |:---:|:---:|
-| ![总结页](界面截图/总结页.png) | ![瘦身页](界面截图/瘦身页.png) |
+| ![总结页](screenshots/summary.png) | ![瘦身页](screenshots/fitness.png) |
 
 ---
 
